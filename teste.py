@@ -47,7 +47,16 @@ with open("/home/henrique/Documents/Desenvolvimento/Python/Lambda/bem_candidato_
        hh_ultima_atualizacao.insert(j,row[17]) 
        j = j + 1 
 
-print("Testando")
+
+
+
+print(sq_candidato[0])
+print(sq_candidato[1])
+print(sq_candidato[2])
+
+print("Deletado primeiro elemento")
+del sq_candidato[0]
+
 print(sq_candidato[0])
 print(sq_candidato[1])
 print(sq_candidato[2])
