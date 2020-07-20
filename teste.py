@@ -50,7 +50,7 @@ with open("/home/henrique/Documents/Desenvolvimento/Python/Lambda/bem_candidato_
 
 
 
-print(sq_candidato[0])
+//print(sq_candidato[0])
 print(sq_candidato[1])
 print(sq_candidato[2])
 
